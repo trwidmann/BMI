@@ -15,7 +15,3 @@ Provides participant BMI measurements
 ## NHANES_MORT
 
 Provides the linked participant mortality data
-
-## Note
-
-All data sets must be joined
