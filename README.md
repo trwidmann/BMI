@@ -19,4 +19,11 @@ Sarcopenia, or the age-related loss of muscle mass, is an established risk facto
 ## Data Sourcing
 I needed a data set that included reliable measurements of body fat and muscle mass as well as BMI. The latter is easy enough to attain. The former measures require a more sophisticated testing apparatus. Thankfully, the National Health and Nutrition Examination Survey (NHANES) performed DXA scans for a selection of years. NHANES is a yearly survey that 
 the CDC uses to track behaviors and disease prevalence in the U.S. population using representative samples numbering 5,000 participants. There are other years that included other forms of body composition testing, but combining data from different measuring methods would introduce a bit too much noise for my comfort. Of course DXA is not completely free 
-of measurement error, but it tends to fare better than the other methods NHANES has used, and at least our data set will be more consistent. 
+of measurement error, but it tends to fare better than the other methods NHANES has used, and at least our data set will be more consistent.
+
+The CDC also provides linked mortality data, which contains the mortality status of a large portion of the NHANES participants troughout the years. The publicly available data is sufficiently anonymized to prevent identifaction of participants. There is 
+more private mortality data available upon approval of special request, but we can make due with the public data; there will still be many data points.
+
+Links:
+[NHANES surveys](https://wwwn.cdc.gov/nchs/nhanes)
+[Mortality Data](https://www.cdc.gov/nchs/data-linkage/mortality.htm)
