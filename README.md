@@ -24,6 +24,6 @@ of measurement error, but it tends to fare better than the other methods NHANES 
 The CDC also provides linked mortality data, which contains the mortality status of a large portion of the NHANES participants troughout the years. The publicly available data is sufficiently anonymized to prevent identifaction of participants. There is 
 more private mortality data available upon approval of special request, but we can make due with the public data; there will still be many data points.
 
-Links:
+Links:\
 [NHANES surveys](https://wwwn.cdc.gov/nchs/nhanes)\
 [Mortality Data](https://www.cdc.gov/nchs/data-linkage/mortality.htm)
