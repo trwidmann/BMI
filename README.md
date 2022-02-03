@@ -25,5 +25,5 @@ The CDC also provides linked mortality data, which contains the mortality status
 more private mortality data available upon approval of special request, but we can make due with the public data; there will still be many data points.
 
 Links:
-[NHANES surveys](https://wwwn.cdc.gov/nchs/nhanes)
+[NHANES surveys](https://wwwn.cdc.gov/nchs/nhanes)\
 [Mortality Data](https://www.cdc.gov/nchs/data-linkage/mortality.htm)
