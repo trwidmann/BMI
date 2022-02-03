@@ -1,3 +1,3 @@
 # Models
 
-Starting with basic logistic regression to determine odds of mortality status.
+Empty directory for modeling work to come.
